@@ -2,6 +2,7 @@ streamlit
 langchain-core
 langchain-community
 langchain-openai
+langchain-ollama
 sentence-transformers
 chromadb
 pypdf
