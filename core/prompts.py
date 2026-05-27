@@ -1,4 +1,4 @@
-from langchain.prompts import PromptTemplate
+from langchain_core.prompts import PromptTemplate
 
 # 导师提示词：全面适配认知科学，采用“苏格拉底启发法”
 TUTOR_PROMPT = PromptTemplate(
